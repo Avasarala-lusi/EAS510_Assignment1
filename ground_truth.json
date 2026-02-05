@@ -1,471 +1,127 @@
 {
-  "created": "2025-08-06T21:59:08.026122",
-  "assignment": "Digital Forensics Detective - Assignment 1",
-  "originals": [
-    {
-      "id": 0,
-      "original_filename": "pexels-adria-masi-461420600-33054122.jpg",
-      "standardized_filename": "original_00.jpg",
-      "size": [
-        3531,
-        2433
-      ],
-      "file_size": 2000565
-    },
-    {
-      "id": 1,
-      "original_filename": "pexels-baybiyik-3022076.jpg",
-      "standardized_filename": "original_01.jpg",
-      "size": [
-        4000,
-        6000
-      ],
-      "file_size": 2039857
-    },
-    {
-      "id": 2,
-      "original_filename": "pexels-farah-sayyed-2154383226-33285795.jpg",
-      "standardized_filename": "original_02.jpg",
-      "size": [
-        4672,
-        7008
-      ],
-      "file_size": 4152041
-    },
-    {
-      "id": 3,
-      "original_filename": "pexels-fernando-landeros-2150423166-31859833.jpg",
-      "standardized_filename": "original_03.jpg",
-      "size": [
-        3283,
-        4596
-      ],
-      "file_size": 2051249
-    },
-    {
-      "id": 4,
-      "original_filename": "pexels-gezerasph-33230901.jpg",
-      "standardized_filename": "original_04.jpg",
-      "size": [
-        4160,
-        6240
-      ],
-      "file_size": 3314524
-    },
-    {
-      "id": 5,
-      "original_filename": "pexels-khang-ocean-3810070-31416550.jpg",
-      "standardized_filename": "original_05.jpg",
-      "size": [
-        5062,
-        3127
-      ],
-      "file_size": 2439626
-    },
-    {
-      "id": 6,
-      "original_filename": "pexels-matreding-10725914.jpg",
-      "standardized_filename": "original_06.jpg",
-      "size": [
-        6239,
-        3510
-      ],
-      "file_size": 2264554
-    },
-    {
-      "id": 7,
-      "original_filename": "pexels-thadowww-33204036.jpg",
-      "standardized_filename": "original_07.jpg",
-      "size": [
-        3570,
-        2380
-      ],
-      "file_size": 801554
-    },
-    {
-      "id": 8,
-      "original_filename": "pexels-wangchuk-grg-2154411229-33208933.jpg",
-      "standardized_filename": "original_08.jpg",
-      "size": [
-        4000,
-        6000
-      ],
-      "file_size": 3033659
-    },
-    {
-      "id": 9,
-      "original_filename": "pexels-yusra_-gonul-1653669305-32056547.jpg",
-      "standardized_filename": "original_09.jpg",
-      "size": [
-        2000,
-        3000
-      ],
-      "file_size": 451428
-    }
-  ],
-  "modifications": [
-    {
-      "original_id": 0,
-      "filename": "modified_00_format_png.png",
-      "modification_type": "format_conversion",
-      "details": "converted to PNG format"
-    },
-    {
-      "original_id": 0,
-      "filename": "modified_00_crop_25pct.jpg",
-      "modification_type": "crop",
-      "details": "25% center crop (882\u00d7608)"
-    },
-    {
-      "original_id": 0,
-      "filename": "modified_00_crop_50pct.jpg",
-      "modification_type": "crop",
-      "details": "50% center crop (1765\u00d71216)"
-    },
-    {
-      "original_id": 0,
-      "filename": "modified_00_crop_75pct.jpg",
-      "modification_type": "crop",
-      "details": "75% center crop (2648\u00d71824)"
-    },
-    {
-      "original_id": 0,
-      "filename": "modified_00_bright_enhanced.jpg",
-      "modification_type": "brightness",
-      "details": "30% brightness increase"
-    },
-    {
-      "original_id": 0,
-      "filename": "modified_00_compressed.jpg",
-      "modification_type": "compression",
-      "details": "JPEG quality reduced to 30%"
-    },
-    {
-      "original_id": 1,
-      "filename": "modified_01_format_png.png",
-      "modification_type": "format_conversion",
-      "details": "converted to PNG format"
-    },
-    {
-      "original_id": 1,
-      "filename": "modified_01_crop_25pct.jpg",
-      "modification_type": "crop",
-      "details": "25% center crop (1000\u00d71500)"
-    },
-    {
-      "original_id": 1,
-      "filename": "modified_01_crop_50pct.jpg",
-      "modification_type": "crop",
-      "details": "50% center crop (2000\u00d73000)"
-    },
-    {
-      "original_id": 1,
-      "filename": "modified_01_crop_75pct.jpg",
-      "modification_type": "crop",
-      "details": "75% center crop (3000\u00d74500)"
-    },
-    {
-      "original_id": 1,
-      "filename": "modified_01_bright_enhanced.jpg",
-      "modification_type": "brightness",
-      "details": "30% brightness increase"
-    },
-    {
-      "original_id": 1,
-      "filename": "modified_01_compressed.jpg",
-      "modification_type": "compression",
-      "details": "JPEG quality reduced to 30%"
-    },
-    {
-      "original_id": 2,
-      "filename": "modified_02_format_png.png",
-      "modification_type": "format_conversion",
-      "details": "converted to PNG format"
-    },
-    {
-      "original_id": 2,
-      "filename": "modified_02_crop_25pct.jpg",
-      "modification_type": "crop",
-      "details": "25% center crop (1168\u00d71752)"
-    },
-    {
-      "original_id": 2,
-      "filename": "modified_02_crop_50pct.jpg",
-      "modification_type": "crop",
-      "details": "50% center crop (2336\u00d73504)"
-    },
-    {
-      "original_id": 2,
-      "filename": "modified_02_crop_75pct.jpg",
-      "modification_type": "crop",
-      "details": "75% center crop (3504\u00d75256)"
-    },
-    {
-      "original_id": 2,
-      "filename": "modified_02_bright_enhanced.jpg",
-      "modification_type": "brightness",
-      "details": "30% brightness increase"
-    },
-    {
-      "original_id": 2,
-      "filename": "modified_02_compressed.jpg",
-      "modification_type": "compression",
-      "details": "JPEG quality reduced to 30%"
-    },
-    {
-      "original_id": 3,
-      "filename": "modified_03_format_png.png",
-      "modification_type": "format_conversion",
-      "details": "converted to PNG format"
-    },
-    {
-      "original_id": 3,
-      "filename": "modified_03_crop_25pct.jpg",
-      "modification_type": "crop",
-      "details": "25% center crop (820\u00d71149)"
-    },
-    {
-      "original_id": 3,
-      "filename": "modified_03_crop_50pct.jpg",
-      "modification_type": "crop",
-      "details": "50% center crop (1641\u00d72298)"
-    },
-    {
-      "original_id": 3,
-      "filename": "modified_03_crop_75pct.jpg",
-      "modification_type": "crop",
-      "details": "75% center crop (2462\u00d73447)"
-    },
-    {
-      "original_id": 3,
-      "filename": "modified_03_bright_enhanced.jpg",
-      "modification_type": "brightness",
-      "details": "30% brightness increase"
-    },
-    {
-      "original_id": 3,
-      "filename": "modified_03_compressed.jpg",
-      "modification_type": "compression",
-      "details": "JPEG quality reduced to 30%"
-    },
-    {
-      "original_id": 4,
-      "filename": "modified_04_format_png.png",
-      "modification_type": "format_conversion",
-      "details": "converted to PNG format"
-    },
-    {
-      "original_id": 4,
-      "filename": "modified_04_crop_25pct.jpg",
-      "modification_type": "crop",
-      "details": "25% center crop (1040\u00d71560)"
-    },
-    {
-      "original_id": 4,
-      "filename": "modified_04_crop_50pct.jpg",
-      "modification_type": "crop",
-      "details": "50% center crop (2080\u00d73120)"
-    },
-    {
-      "original_id": 4,
-      "filename": "modified_04_crop_75pct.jpg",
-      "modification_type": "crop",
-      "details": "75% center crop (3120\u00d74680)"
-    },
-    {
-      "original_id": 4,
-      "filename": "modified_04_bright_enhanced.jpg",
-      "modification_type": "brightness",
-      "details": "30% brightness increase"
-    },
-    {
-      "original_id": 4,
-      "filename": "modified_04_compressed.jpg",
-      "modification_type": "compression",
-      "details": "JPEG quality reduced to 30%"
-    },
-    {
-      "original_id": 5,
-      "filename": "modified_05_format_png.png",
-      "modification_type": "format_conversion",
-      "details": "converted to PNG format"
-    },
-    {
-      "original_id": 5,
-      "filename": "modified_05_crop_25pct.jpg",
-      "modification_type": "crop",
-      "details": "25% center crop (1265\u00d7781)"
-    },
-    {
-      "original_id": 5,
-      "filename": "modified_05_crop_50pct.jpg",
-      "modification_type": "crop",
-      "details": "50% center crop (2531\u00d71563)"
-    },
-    {
-      "original_id": 5,
-      "filename": "modified_05_crop_75pct.jpg",
-      "modification_type": "crop",
-      "details": "75% center crop (3796\u00d72345)"
-    },
-    {
-      "original_id": 5,
-      "filename": "modified_05_bright_enhanced.jpg",
-      "modification_type": "brightness",
-      "details": "30% brightness increase"
-    },
-    {
-      "original_id": 5,
-      "filename": "modified_05_compressed.jpg",
-      "modification_type": "compression",
-      "details": "JPEG quality reduced to 30%"
-    },
-    {
-      "original_id": 6,
-      "filename": "modified_06_format_png.png",
-      "modification_type": "format_conversion",
-      "details": "converted to PNG format"
-    },
-    {
-      "original_id": 6,
-      "filename": "modified_06_crop_25pct.jpg",
-      "modification_type": "crop",
-      "details": "25% center crop (1559\u00d7877)"
-    },
-    {
-      "original_id": 6,
-      "filename": "modified_06_crop_50pct.jpg",
-      "modification_type": "crop",
-      "details": "50% center crop (3119\u00d71755)"
-    },
-    {
-      "original_id": 6,
-      "filename": "modified_06_crop_75pct.jpg",
-      "modification_type": "crop",
-      "details": "75% center crop (4679\u00d72632)"
-    },
-    {
-      "original_id": 6,
-      "filename": "modified_06_bright_enhanced.jpg",
-      "modification_type": "brightness",
-      "details": "30% brightness increase"
-    },
-    {
-      "original_id": 6,
-      "filename": "modified_06_compressed.jpg",
-      "modification_type": "compression",
-      "details": "JPEG quality reduced to 30%"
-    },
-    {
-      "original_id": 7,
-      "filename": "modified_07_format_png.png",
-      "modification_type": "format_conversion",
-      "details": "converted to PNG format"
-    },
-    {
-      "original_id": 7,
-      "filename": "modified_07_crop_25pct.jpg",
-      "modification_type": "crop",
-      "details": "25% center crop (892\u00d7595)"
-    },
-    {
-      "original_id": 7,
-      "filename": "modified_07_crop_50pct.jpg",
-      "modification_type": "crop",
-      "details": "50% center crop (1785\u00d71190)"
-    },
-    {
-      "original_id": 7,
-      "filename": "modified_07_crop_75pct.jpg",
-      "modification_type": "crop",
-      "details": "75% center crop (2677\u00d71785)"
-    },
-    {
-      "original_id": 7,
-      "filename": "modified_07_bright_enhanced.jpg",
-      "modification_type": "brightness",
-      "details": "30% brightness increase"
-    },
-    {
-      "original_id": 7,
-      "filename": "modified_07_compressed.jpg",
-      "modification_type": "compression",
-      "details": "JPEG quality reduced to 30%"
-    },
-    {
-      "original_id": 8,
-      "filename": "modified_08_format_png.png",
-      "modification_type": "format_conversion",
-      "details": "converted to PNG format"
-    },
-    {
-      "original_id": 8,
-      "filename": "modified_08_crop_25pct.jpg",
-      "modification_type": "crop",
-      "details": "25% center crop (1000\u00d71500)"
-    },
-    {
-      "original_id": 8,
-      "filename": "modified_08_crop_50pct.jpg",
-      "modification_type": "crop",
-      "details": "50% center crop (2000\u00d73000)"
-    },
-    {
-      "original_id": 8,
-      "filename": "modified_08_crop_75pct.jpg",
-      "modification_type": "crop",
-      "details": "75% center crop (3000\u00d74500)"
-    },
-    {
-      "original_id": 8,
-      "filename": "modified_08_bright_enhanced.jpg",
-      "modification_type": "brightness",
-      "details": "30% brightness increase"
-    },
-    {
-      "original_id": 8,
-      "filename": "modified_08_compressed.jpg",
-      "modification_type": "compression",
-      "details": "JPEG quality reduced to 30%"
-    },
-    {
-      "original_id": 9,
-      "filename": "modified_09_format_png.png",
-      "modification_type": "format_conversion",
-      "details": "converted to PNG format"
-    },
-    {
-      "original_id": 9,
-      "filename": "modified_09_crop_25pct.jpg",
-      "modification_type": "crop",
-      "details": "25% center crop (500\u00d7750)"
-    },
-    {
-      "original_id": 9,
-      "filename": "modified_09_crop_50pct.jpg",
-      "modification_type": "crop",
-      "details": "50% center crop (1000\u00d71500)"
-    },
-    {
-      "original_id": 9,
-      "filename": "modified_09_crop_75pct.jpg",
-      "modification_type": "crop",
-      "details": "75% center crop (1500\u00d72250)"
-    },
-    {
-      "original_id": 9,
-      "filename": "modified_09_bright_enhanced.jpg",
-      "modification_type": "brightness",
-      "details": "30% brightness increase"
-    },
-    {
-      "original_id": 9,
-      "filename": "modified_09_compressed.jpg",
-      "modification_type": "compression",
-      "details": "JPEG quality reduced to 30%"
-    }
-  ],
-  "total_originals": 10,
-  "total_modified": 60,
-  "challenge": "Match each modified image back to its original source"
+  "hard/original_00__contrast__compress__q55__v5.jpg": "original_00",
+  "hard/original_00__crop_keep60__resized__q45__v6.jpg": "original_00",
+  "hard/original_00__crop_keep70__bright__compress__q40__v2.jpg": "original_00",
+  "hard/original_00__crop_offcenter_keep75__compress__q35__v1.jpg": "original_00",
+  "hard/original_00__resize_scale114__compress__q45__v3.jpg": "original_00",
+  "hard/original_00__rotate6deg__compress__q35__v4.jpg": "original_00",
+  "hard/original_01__contrast__compress__q70__v5.jpg": "original_01",
+  "hard/original_01__crop_keep50__resized__q75__v6.jpg": "original_01",
+  "hard/original_01__crop_keep70__bright__compress__q40__v2.jpg": "original_01",
+  "hard/original_01__crop_offcenter_keep65__compress__q35__v1.jpg": "original_01",
+  "hard/original_01__resize_scale75__compress__q30__v3.jpg": "original_01",
+  "hard/original_01__rotate3deg__compress__q65__v4.jpg": "original_01",
+  "hard/original_02__contrast__compress__q35__v5.jpg": "original_02",
+  "hard/original_02__crop_keep60__resized__q60__v6.jpg": "original_02",
+  "hard/original_02__crop_keep70__bright__compress__q40__v2.jpg": "original_02",
+  "hard/original_02__crop_offcenter_keep55__compress__q45__v1.jpg": "original_02",
+  "hard/original_02__resize_scale85__compress__q30__v3.jpg": "original_02",
+  "hard/original_02__rotate3deg__compress__q35__v4.jpg": "original_02",
+  "hard/original_03__contrast__compress__q70__v5.jpg": "original_03",
+  "hard/original_03__crop_keep60__bright__compress__q40__v2.jpg": "original_03",
+  "hard/original_03__crop_keep60__resized__q60__v6.jpg": "original_03",
+  "hard/original_03__crop_offcenter_keep65__compress__q35__v1.jpg": "original_03",
+  "hard/original_03__resize_scale75__compress__q45__v3.jpg": "original_03",
+  "hard/original_03__rotate-6deg__compress__q50__v4.jpg": "original_03",
+  "hard/original_04__contrast__compress__q70__v5.jpg": "original_04",
+  "hard/original_04__crop_keep50__resized__q45__v6.jpg": "original_04",
+  "hard/original_04__crop_keep60__bright__compress__q65__v2.jpg": "original_04",
+  "hard/original_04__crop_offcenter_keep75__compress__q35__v1.jpg": "original_04",
+  "hard/original_04__resize_scale85__compress__q60__v3.jpg": "original_04",
+  "hard/original_04__rotate-4deg__compress__q50__v4.jpg": "original_04",
+  "hard/original_05__contrast__compress__q35__v5.jpg": "original_05",
+  "hard/original_05__crop_keep50__resized__q60__v6.jpg": "original_05",
+  "hard/original_05__crop_keep70__bright__compress__q65__v2.jpg": "original_05",
+  "hard/original_05__crop_offcenter_keep75__compress__q25__v1.jpg": "original_05",
+  "hard/original_05__resize_scale114__compress__q60__v3.jpg": "original_05",
+  "hard/original_05__rotate-3deg__compress__q65__v4.jpg": "original_05",
+  "hard/original_06__contrast__compress__q35__v5.jpg": "original_06",
+  "hard/original_06__crop_keep50__resized__q45__v6.jpg": "original_06",
+  "hard/original_06__crop_keep70__bright__compress__q55__v2.jpg": "original_06",
+  "hard/original_06__crop_offcenter_keep75__compress__q25__v1.jpg": "original_06",
+  "hard/original_06__resize_scale85__compress__q45__v3.jpg": "original_06",
+  "hard/original_06__rotate-6deg__compress__q35__v4.jpg": "original_06",
+  "hard/original_07__contrast__compress__q70__v5.jpg": "original_07",
+  "hard/original_07__crop_keep60__bright__compress__q55__v2.jpg": "original_07",
+  "hard/original_07__crop_keep60__resized__q60__v6.jpg": "original_07",
+  "hard/original_07__crop_offcenter_keep55__compress__q35__v1.jpg": "original_07",
+  "hard/original_07__resize_scale114__compress__q45__v3.jpg": "original_07",
+  "hard/original_07__rotate-3deg__compress__q65__v4.jpg": "original_07",
+  "hard/original_08__contrast__compress__q35__v5.jpg": "original_08",
+  "hard/original_08__crop_keep60__bright__compress__q55__v2.jpg": "original_08",
+  "hard/original_08__crop_keep60__resized__q45__v6.jpg": "original_08",
+  "hard/original_08__crop_offcenter_keep65__compress__q35__v1.jpg": "original_08",
+  "hard/original_08__resize_scale114__compress__q30__v3.jpg": "original_08",
+  "hard/original_08__rotate3deg__compress__q50__v4.jpg": "original_08",
+  "hard/original_09__contrast__compress__q35__v5.jpg": "original_09",
+  "hard/original_09__crop_keep50__resized__q75__v6.jpg": "original_09",
+  "hard/original_09__crop_keep60__bright__compress__q40__v2.jpg": "original_09",
+  "hard/original_09__crop_offcenter_keep55__compress__q25__v1.jpg": "original_09",
+  "hard/original_09__resize_scale75__compress__q30__v3.jpg": "original_09",
+  "hard/original_09__rotate-3deg__compress__q65__v4.jpg": "original_09",
+  "modified_images/modified_00_bright_enhanced.jpg": "original_00",
+  "modified_images/modified_00_compressed.jpg": "original_00",
+  "modified_images/modified_00_crop_25pct.jpg": "original_00",
+  "modified_images/modified_00_crop_50pct.jpg": "original_00",
+  "modified_images/modified_00_crop_75pct.jpg": "original_00",
+  "modified_images/modified_00_format_png.png": "original_00",
+  "modified_images/modified_01_bright_enhanced.jpg": "original_01",
+  "modified_images/modified_01_compressed.jpg": "original_01",
+  "modified_images/modified_01_crop_25pct.jpg": "original_01",
+  "modified_images/modified_01_crop_50pct.jpg": "original_01",
+  "modified_images/modified_01_crop_75pct.jpg": "original_01",
+  "modified_images/modified_01_format_png.png": "original_01",
+  "modified_images/modified_02_bright_enhanced.jpg": "original_02",
+  "modified_images/modified_02_compressed.jpg": "original_02",
+  "modified_images/modified_02_crop_25pct.jpg": "original_02",
+  "modified_images/modified_02_crop_50pct.jpg": "original_02",
+  "modified_images/modified_02_crop_75pct.jpg": "original_02",
+  "modified_images/modified_02_format_png.png": "original_02",
+  "modified_images/modified_03_bright_enhanced.jpg": "original_03",
+  "modified_images/modified_03_compressed.jpg": "original_03",
+  "modified_images/modified_03_crop_25pct.jpg": "original_03",
+  "modified_images/modified_03_crop_50pct.jpg": "original_03",
+  "modified_images/modified_03_crop_75pct.jpg": "original_03",
+  "modified_images/modified_03_format_png.png": "original_03",
+  "modified_images/modified_04_bright_enhanced.jpg": "original_04",
+  "modified_images/modified_04_compressed.jpg": "original_04",
+  "modified_images/modified_04_crop_25pct.jpg": "original_04",
+  "modified_images/modified_04_crop_50pct.jpg": "original_04",
+  "modified_images/modified_04_crop_75pct.jpg": "original_04",
+  "modified_images/modified_04_format_png.png": "original_04",
+  "modified_images/modified_05_bright_enhanced.jpg": "original_05",
+  "modified_images/modified_05_compressed.jpg": "original_05",
+  "modified_images/modified_05_crop_25pct.jpg": "original_05",
+  "modified_images/modified_05_crop_50pct.jpg": "original_05",
+  "modified_images/modified_05_crop_75pct.jpg": "original_05",
+  "modified_images/modified_05_format_png.png": "original_05",
+  "modified_images/modified_06_bright_enhanced.jpg": "original_06",
+  "modified_images/modified_06_compressed.jpg": "original_06",
+  "modified_images/modified_06_crop_25pct.jpg": "original_06",
+  "modified_images/modified_06_crop_50pct.jpg": "original_06",
+  "modified_images/modified_06_crop_75pct.jpg": "original_06",
+  "modified_images/modified_06_format_png.png": "original_06",
+  "modified_images/modified_07_bright_enhanced.jpg": "original_07",
+  "modified_images/modified_07_compressed.jpg": "original_07",
+  "modified_images/modified_07_crop_25pct.jpg": "original_07",
+  "modified_images/modified_07_crop_50pct.jpg": "original_07",
+  "modified_images/modified_07_crop_75pct.jpg": "original_07",
+  "modified_images/modified_07_format_png.png": "original_07",
+  "modified_images/modified_08_bright_enhanced.jpg": "original_08",
+  "modified_images/modified_08_compressed.jpg": "original_08",
+  "modified_images/modified_08_crop_25pct.jpg": "original_08",
+  "modified_images/modified_08_crop_50pct.jpg": "original_08",
+  "modified_images/modified_08_crop_75pct.jpg": "original_08",
+  "modified_images/modified_08_format_png.png": "original_08",
+  "modified_images/modified_09_bright_enhanced.jpg": "original_09",
+  "modified_images/modified_09_compressed.jpg": "original_09",
+  "modified_images/modified_09_crop_25pct.jpg": "original_09",
+  "modified_images/modified_09_crop_50pct.jpg": "original_09",
+  "modified_images/modified_09_crop_75pct.jpg": "original_09",
+  "modified_images/modified_09_format_png.png": "original_09",
+  "random/random_noise_00.jpg": null,
+  "random/random_noise_01.jpg": null,
+  "random/random_noise_02.jpg": null,
+  "random/random_noise_03.jpg": null,
+  "random/random_noise_04.jpg": null
 }
