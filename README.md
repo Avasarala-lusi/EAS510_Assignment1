@@ -9,7 +9,7 @@ EAS510_Assignment1/
 ├── originals/        # 10 original JPEG images
 ├── modified_images/  # 60 "easy" cases (single transformations)
 ├── hard/             # 60 "hard" cases (combined transformations)
-└── random/           # 5 unrelated images (should be rejected)
+└── random/           # 15 unrelated images (should be rejected)
 ```
 
 ## Transformations
