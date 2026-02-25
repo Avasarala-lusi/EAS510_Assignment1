@@ -1,0 +1,810 @@
+Processing: modified_00_bright_enhanced.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.97 -> 29/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.99 -> 29/30 points
+  Rule 3 (Template): FIRED - Match score 0.51 -> 20/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.25 -> 4/20 points
+Final Score: 104/120 -> MATCH to original_00.jpg
+Processing: modified_00_compressed.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.34 -> 20/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.97 -> 28/30 points
+  Rule 3 (Template): FIRED - Match score 0.50 -> 19/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.26 -> 5/20 points
+Final Score: 94/120 -> MATCH to original_00.jpg
+Processing: modified_00_crop_25pct.jpg
+  Rule 1 (Metadata): NO MATCH - Size ratio 0.08 -> 4/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.91 -> 27/30 points
+  Rule 3 (Template): FIRED - Match score 0.97 -> 38/40 points
+  Rule 4 (Edge Detection): FIRED - Edge score 0.79 -> 15/20 points
+Final Score: 96/120 -> MATCH to original_00.jpg
+Processing: modified_00_crop_50pct.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.30 -> 11/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.91 -> 27/30 points
+  Rule 3 (Template): FIRED - Match score 0.95 -> 37/40 points
+  Rule 4 (Edge Detection): FIRED - Edge score 0.66 -> 13/20 points
+Final Score: 110/120 -> MATCH to original_00.jpg
+Processing: modified_00_crop_75pct.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.64 -> 20/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.95 -> 28/30 points
+  Rule 3 (Template): FIRED - Match score 0.99 -> 39/40 points
+  Rule 4 (Edge Detection): FIRED - Edge score 0.85 -> 17/20 points
+Final Score: 120/120 -> MATCH to original_00.jpg
+Processing: modified_00_format_png.png
+  Rule 1 (Metadata): FIRED - Size ratio 0.14 -> 17/30 points
+  Rule 2 (Histogram): FIRED - Correlation 1.00 -> 30/30 points
+  Rule 3 (Template): FIRED - Match score 0.50 -> 19/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.26 -> 5/20 points
+Final Score: 93/120 -> MATCH to original_00.jpg
+Processing: modified_01_bright_enhanced.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.96 -> 29/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.60 -> 18/30 points
+  Rule 3 (Template): FIRED - Match score 0.45 -> 18/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.31 -> 6/20 points
+Final Score: 93/120 -> MATCH to original_01.jpg
+Processing: modified_01_compressed.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.36 -> 20/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.48 -> 14/30 points
+  Rule 3 (Template): FIRED - Match score 0.44 -> 17/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.32 -> 6/20 points
+Final Score: 79/120 -> MATCH to original_01.jpg
+Processing: modified_01_crop_25pct.jpg
+  Rule 1 (Metadata): NO MATCH - Size ratio 0.13 -> 4/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.96 -> 28/30 points
+  Rule 3 (Template): FIRED - Match score 0.95 -> 38/40 points
+  Rule 4 (Edge Detection): FIRED - Edge score 0.72 -> 14/20 points
+Final Score: 96/120 -> MATCH to original_01.jpg
+Processing: modified_01_crop_50pct.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.35 -> 12/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.98 -> 29/30 points
+  Rule 3 (Template): FIRED - Match score 1.00 -> 39/40 points
+  Rule 4 (Edge Detection): FIRED - Edge score 0.97 -> 19/20 points
+Final Score: 120/120 -> MATCH to original_01.jpg
+Processing: modified_01_crop_75pct.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.72 -> 21/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.99 -> 29/30 points
+  Rule 3 (Template): FIRED - Match score 0.98 -> 39/40 points
+  Rule 4 (Edge Detection): FIRED - Edge score 0.74 -> 14/20 points
+Final Score: 120/120 -> MATCH to original_01.jpg
+Processing: modified_01_format_png.png
+  Rule 1 (Metadata): FIRED - Size ratio 0.12 -> 16/30 points
+  Rule 2 (Histogram): FIRED - Correlation 1.00 -> 30/30 points
+  Rule 3 (Template): FIRED - Match score 0.44 -> 17/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.31 -> 6/20 points
+Final Score: 91/120 -> MATCH to original_01.jpg
+Processing: modified_02_bright_enhanced.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.99 -> 29/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.89 -> 26/30 points
+  Rule 3 (Template): FIRED - Match score 0.48 -> 19/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.15 -> 3/20 points
+Final Score: 99/120 -> MATCH to original_02.jpg
+Processing: modified_02_compressed.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.41 -> 21/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.99 -> 29/30 points
+  Rule 3 (Template): FIRED - Match score 0.51 -> 20/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.15 -> 2/20 points
+Final Score: 94/120 -> MATCH to original_02.jpg
+Processing: modified_02_crop_25pct.jpg
+  Rule 1 (Metadata): NO MATCH - Size ratio 0.06 -> 3/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.94 -> 28/30 points
+  Rule 3 (Template): FIRED - Match score 0.93 -> 37/40 points
+  Rule 4 (Edge Detection): FIRED - Edge score 0.69 -> 13/20 points
+Final Score: 93/120 -> MATCH to original_02.jpg
+Processing: modified_02_crop_50pct.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.22 -> 10/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.98 -> 29/30 points
+  Rule 3 (Template): FIRED - Match score 1.00 -> 39/40 points
+  Rule 4 (Edge Detection): FIRED - Edge score 0.99 -> 19/20 points
+Final Score: 119/120 -> MATCH to original_02.jpg
+Processing: modified_02_crop_75pct.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.58 -> 19/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.96 -> 28/30 points
+  Rule 3 (Template): FIRED - Match score 0.94 -> 37/40 points
+  Rule 4 (Edge Detection): FIRED - Edge score 0.69 -> 13/20 points
+Final Score: 119/120 -> MATCH to original_02.jpg
+Processing: modified_02_format_png.png
+  Rule 1 (Metadata): FIRED - Size ratio 0.15 -> 17/30 points
+  Rule 2 (Histogram): FIRED - Correlation 1.00 -> 30/30 points
+  Rule 3 (Template): FIRED - Match score 0.51 -> 20/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.15 -> 2/20 points
+Final Score: 91/120 -> MATCH to original_02.jpg
+Processing: modified_03_bright_enhanced.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.95 -> 29/30 points
+  Rule 2 (Histogram): FIRED - Correlation 1.00 -> 29/30 points
+  Rule 3 (Template): FIRED - Match score 0.57 -> 22/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.25 -> 4/20 points
+Final Score: 106/120 -> MATCH to original_03.jpg
+Processing: modified_03_compressed.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.30 -> 19/30 points
+  Rule 2 (Histogram): FIRED - Correlation 1.00 -> 29/30 points
+  Rule 3 (Template): FIRED - Match score 0.57 -> 22/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.26 -> 5/20 points
+Final Score: 97/120 -> MATCH to original_03.jpg
+Processing: modified_03_crop_25pct.jpg
+  Rule 1 (Metadata): NO MATCH - Size ratio 0.07 -> 4/30 points
+  Rule 2 (Histogram): NO MATCH - Correlation 0.21 -> 6/30 points
+  Rule 3 (Template): FIRED - Match score 0.99 -> 39/40 points
+  Rule 4 (Edge Detection): FIRED - Edge score 0.74 -> 14/20 points
+Final Score: 75/120 -> MATCH to original_03.jpg
+Processing: modified_03_crop_50pct.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.30 -> 11/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.73 -> 21/30 points
+  Rule 3 (Template): FIRED - Match score 0.99 -> 39/40 points
+  Rule 4 (Edge Detection): FIRED - Edge score 0.73 -> 14/20 points
+Final Score: 107/120 -> MATCH to original_03.jpg
+Processing: modified_03_crop_75pct.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.63 -> 20/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.98 -> 29/30 points
+  Rule 3 (Template): FIRED - Match score 0.99 -> 39/40 points
+  Rule 4 (Edge Detection): FIRED - Edge score 0.85 -> 16/20 points
+Final Score: 120/120 -> MATCH to original_03.jpg
+Processing: modified_03_format_png.png
+  Rule 1 (Metadata): FIRED - Size ratio 0.13 -> 16/30 points
+  Rule 2 (Histogram): FIRED - Correlation 1.00 -> 30/30 points
+  Rule 3 (Template): FIRED - Match score 0.57 -> 22/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.26 -> 5/20 points
+Final Score: 95/120 -> MATCH to original_03.jpg
+Processing: modified_04_bright_enhanced.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.96 -> 29/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.99 -> 29/30 points
+  Rule 3 (Template): FIRED - Match score 0.41 -> 16/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.30 -> 5/20 points
+Final Score: 101/120 -> MATCH to original_04.jpg
+Processing: modified_04_compressed.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.39 -> 20/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.82 -> 24/30 points
+  Rule 3 (Template): FIRED - Match score 0.41 -> 16/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.30 -> 5/20 points
+Final Score: 87/120 -> MATCH to original_04.jpg
+Processing: modified_04_crop_25pct.jpg
+  Rule 1 (Metadata): NO MATCH - Size ratio 0.07 -> 4/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.82 -> 24/30 points
+  Rule 3 (Template): FIRED - Match score 0.95 -> 38/40 points
+  Rule 4 (Edge Detection): FIRED - Edge score 0.85 -> 17/20 points
+Final Score: 95/120 -> MATCH to original_04.jpg
+Processing: modified_04_crop_50pct.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.33 -> 11/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.84 -> 25/30 points
+  Rule 3 (Template): FIRED - Match score 1.00 -> 39/40 points
+  Rule 4 (Edge Detection): FIRED - Edge score 1.00 -> 19/20 points
+Final Score: 116/120 -> MATCH to original_04.jpg
+Processing: modified_04_crop_75pct.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.72 -> 21/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.90 -> 26/30 points
+  Rule 3 (Template): FIRED - Match score 0.95 -> 38/40 points
+  Rule 4 (Edge Detection): FIRED - Edge score 0.82 -> 16/20 points
+Final Score: 120/120 -> MATCH to original_04.jpg
+Processing: modified_04_format_png.png
+  Rule 1 (Metadata): FIRED - Size ratio 0.15 -> 17/30 points
+  Rule 2 (Histogram): FIRED - Correlation 1.00 -> 30/30 points
+  Rule 3 (Template): FIRED - Match score 0.41 -> 16/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.30 -> 6/20 points
+Final Score: 91/120 -> MATCH to original_04.jpg
+Processing: modified_05_bright_enhanced.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.95 -> 29/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.99 -> 29/30 points
+  Rule 3 (Template): NO MATCH - Match score 0.31 -> 12/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.39 -> 7/20 points
+Final Score: 99/120 -> MATCH to original_05.jpg
+Processing: modified_05_compressed.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.34 -> 20/30 points
+  Rule 2 (Histogram): FIRED - Correlation 1.00 -> 29/30 points
+  Rule 3 (Template): NO MATCH - Match score 0.31 -> 12/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.40 -> 7/20 points
+Final Score: 90/120 -> MATCH to original_05.jpg
+Processing: modified_05_crop_25pct.jpg
+  Rule 1 (Metadata): NO MATCH - Size ratio 0.09 -> 4/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.86 -> 25/30 points
+  Rule 3 (Template): FIRED - Match score 0.98 -> 39/40 points
+  Rule 4 (Edge Detection): FIRED - Edge score 0.82 -> 16/20 points
+Final Score: 96/120 -> MATCH to original_05.jpg
+Processing: modified_05_crop_50pct.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.32 -> 11/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.98 -> 29/30 points
+  Rule 3 (Template): FIRED - Match score 0.97 -> 38/40 points
+  Rule 4 (Edge Detection): FIRED - Edge score 0.78 -> 15/20 points
+Final Score: 115/120 -> MATCH to original_05.jpg
+Processing: modified_05_crop_75pct.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.65 -> 20/30 points
+  Rule 2 (Histogram): FIRED - Correlation 1.00 -> 29/30 points
+  Rule 3 (Template): FIRED - Match score 0.99 -> 39/40 points
+  Rule 4 (Edge Detection): FIRED - Edge score 0.87 -> 17/20 points
+Final Score: 120/120 -> MATCH to original_05.jpg
+Processing: modified_05_format_png.png
+  Rule 1 (Metadata): FIRED - Size ratio 0.12 -> 16/30 points
+  Rule 2 (Histogram): FIRED - Correlation 1.00 -> 30/30 points
+  Rule 3 (Template): NO MATCH - Match score 0.31 -> 12/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.39 -> 7/20 points
+Final Score: 87/120 -> MATCH to original_05.jpg
+Processing: modified_06_bright_enhanced.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.95 -> 29/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.94 -> 28/30 points
+  Rule 3 (Template): FIRED - Match score 0.47 -> 18/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.36 -> 7/20 points
+Final Score: 104/120 -> MATCH to original_06.jpg
+Processing: modified_06_compressed.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.36 -> 20/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.84 -> 25/30 points
+  Rule 3 (Template): FIRED - Match score 0.47 -> 18/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.39 -> 7/20 points
+Final Score: 92/120 -> MATCH to original_06.jpg
+Processing: modified_06_crop_25pct.jpg
+  Rule 1 (Metadata): NO MATCH - Size ratio 0.07 -> 4/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.84 -> 25/30 points
+  Rule 3 (Template): FIRED - Match score 0.97 -> 38/40 points
+  Rule 4 (Edge Detection): FIRED - Edge score 0.83 -> 16/20 points
+Final Score: 95/120 -> MATCH to original_06.jpg
+Processing: modified_06_crop_50pct.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.30 -> 11/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.87 -> 26/30 points
+  Rule 3 (Template): FIRED - Match score 0.98 -> 39/40 points
+  Rule 4 (Edge Detection): FIRED - Edge score 0.75 -> 14/20 points
+Final Score: 112/120 -> MATCH to original_06.jpg
+Processing: modified_06_crop_75pct.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.66 -> 20/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.95 -> 28/30 points
+  Rule 3 (Template): FIRED - Match score 0.99 -> 39/40 points
+  Rule 4 (Edge Detection): FIRED - Edge score 0.87 -> 17/20 points
+Final Score: 120/120 -> MATCH to original_06.jpg
+Processing: modified_06_format_png.png
+  Rule 1 (Metadata): FIRED - Size ratio 0.13 -> 16/30 points
+  Rule 2 (Histogram): FIRED - Correlation 1.00 -> 30/30 points
+  Rule 3 (Template): FIRED - Match score 0.47 -> 18/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.39 -> 7/20 points
+Final Score: 93/120 -> MATCH to original_06.jpg
+Processing: modified_07_bright_enhanced.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.98 -> 29/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.86 -> 25/30 points
+  Rule 3 (Template): FIRED - Match score 0.59 -> 23/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.26 -> 5/20 points
+Final Score: 104/120 -> MATCH to original_07.jpg
+Processing: modified_07_compressed.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.36 -> 20/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.81 -> 24/30 points
+  Rule 3 (Template): FIRED - Match score 0.59 -> 23/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.25 -> 4/20 points
+Final Score: 93/120 -> MATCH to original_07.jpg
+Processing: modified_07_crop_25pct.jpg
+  Rule 1 (Metadata): NO MATCH - Size ratio 0.09 -> 4/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.71 -> 21/30 points
+  Rule 3 (Template): FIRED - Match score 0.99 -> 39/40 points
+  Rule 4 (Edge Detection): FIRED - Edge score 0.92 -> 18/20 points
+Final Score: 94/120 -> MATCH to original_07.jpg
+Processing: modified_07_crop_50pct.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.33 -> 12/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.84 -> 25/30 points
+  Rule 3 (Template): FIRED - Match score 1.00 -> 39/40 points
+  Rule 4 (Edge Detection): FIRED - Edge score 0.99 -> 19/20 points
+Final Score: 117/120 -> MATCH to original_07.jpg
+Processing: modified_07_crop_75pct.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.67 -> 20/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.92 -> 27/30 points
+  Rule 3 (Template): FIRED - Match score 0.99 -> 39/40 points
+  Rule 4 (Edge Detection): FIRED - Edge score 0.84 -> 16/20 points
+Final Score: 120/120 -> MATCH to original_07.jpg
+Processing: modified_07_format_png.png
+  Rule 1 (Metadata): FIRED - Size ratio 0.18 -> 17/30 points
+  Rule 2 (Histogram): FIRED - Correlation 1.00 -> 30/30 points
+  Rule 3 (Template): FIRED - Match score 0.59 -> 23/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.25 -> 4/20 points
+Final Score: 96/120 -> MATCH to original_07.jpg
+Processing: modified_08_bright_enhanced.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.98 -> 29/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.93 -> 27/30 points
+  Rule 3 (Template): FIRED - Match score 0.45 -> 17/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.37 -> 7/20 points
+Final Score: 102/120 -> MATCH to original_08.jpg
+Processing: modified_08_compressed.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.41 -> 21/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.97 -> 29/30 points
+  Rule 3 (Template): FIRED - Match score 0.46 -> 18/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.37 -> 7/20 points
+Final Score: 97/120 -> MATCH to original_08.jpg
+Processing: modified_08_crop_25pct.jpg
+  Rule 1 (Metadata): NO MATCH - Size ratio 0.10 -> 4/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.44 -> 13/30 points
+  Rule 3 (Template): FIRED - Match score 0.97 -> 38/40 points
+  Rule 4 (Edge Detection): FIRED - Edge score 0.83 -> 16/20 points
+Final Score: 83/120 -> MATCH to original_08.jpg
+Processing: modified_08_crop_50pct.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.38 -> 12/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.76 -> 22/30 points
+  Rule 3 (Template): FIRED - Match score 1.00 -> 39/40 points
+  Rule 4 (Edge Detection): FIRED - Edge score 0.99 -> 19/20 points
+Final Score: 114/120 -> MATCH to original_08.jpg
+Processing: modified_08_crop_75pct.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.75 -> 22/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.93 -> 27/30 points
+  Rule 3 (Template): FIRED - Match score 0.97 -> 38/40 points
+  Rule 4 (Edge Detection): FIRED - Edge score 0.81 -> 16/20 points
+Final Score: 120/120 -> MATCH to original_08.jpg
+Processing: modified_08_format_png.png
+  Rule 1 (Metadata): FIRED - Size ratio 0.13 -> 17/30 points
+  Rule 2 (Histogram): FIRED - Correlation 1.00 -> 30/30 points
+  Rule 3 (Template): FIRED - Match score 0.46 -> 18/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.37 -> 7/20 points
+Final Score: 94/120 -> MATCH to original_08.jpg
+Processing: modified_09_bright_enhanced.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.96 -> 29/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.99 -> 29/30 points
+  Rule 3 (Template): FIRED - Match score 0.92 -> 36/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.33 -> 6/20 points
+Final Score: 120/120 -> MATCH to original_09.jpg
+Processing: modified_09_compressed.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.30 -> 19/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.98 -> 29/30 points
+  Rule 3 (Template): FIRED - Match score 0.91 -> 36/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.34 -> 6/20 points
+Final Score: 112/120 -> MATCH to original_09.jpg
+Processing: modified_09_crop_25pct.jpg
+  Rule 1 (Metadata): NO MATCH - Size ratio 0.08 -> 4/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.71 -> 21/30 points
+  Rule 3 (Template): FIRED - Match score 0.90 -> 36/40 points
+  Rule 4 (Edge Detection): FIRED - Edge score 0.71 -> 14/20 points
+Final Score: 87/120 -> MATCH to original_09.jpg
+Processing: modified_09_crop_50pct.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.30 -> 11/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.86 -> 25/30 points
+  Rule 3 (Template): FIRED - Match score 1.00 -> 39/40 points
+  Rule 4 (Edge Detection): FIRED - Edge score 1.00 -> 19/20 points
+Final Score: 116/120 -> MATCH to original_09.jpg
+Processing: modified_09_crop_75pct.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.70 -> 21/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.95 -> 28/30 points
+  Rule 3 (Template): FIRED - Match score 0.98 -> 39/40 points
+  Rule 4 (Edge Detection): FIRED - Edge score 0.62 -> 12/20 points
+Final Score: 120/120 -> MATCH to original_09.jpg
+Processing: modified_09_format_png.png
+  Rule 1 (Metadata): FIRED - Size ratio 0.12 -> 16/30 points
+  Rule 2 (Histogram): FIRED - Correlation 1.00 -> 30/30 points
+  Rule 3 (Template): FIRED - Match score 0.91 -> 36/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.34 -> 6/20 points
+Final Score: 110/120 -> MATCH to original_09.jpg
+Processing: original_00__contrast__compress__q55__v5.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.56 -> 23/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.66 -> 19/30 points
+  Rule 3 (Template): FIRED - Match score 0.50 -> 19/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.25 -> 4/20 points
+Final Score: 87/120 -> MATCH to original_00.jpg
+Processing: original_00__crop_keep60__resized__q45__v6.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.39 -> 20/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.93 -> 27/30 points
+  Rule 3 (Template): NO MATCH - Match score 0.36 -> 14/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.17 -> 3/20 points
+Final Score: 86/120 -> MATCH to original_00.jpg
+Processing: original_00__crop_keep70__bright__compress__q40__v2.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.19 -> 12/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.95 -> 28/30 points
+  Rule 3 (Template): FIRED - Match score 0.95 -> 38/40 points
+  Rule 4 (Edge Detection): FIRED - Edge score 0.63 -> 12/20 points
+Final Score: 112/120 -> MATCH to original_00.jpg
+Processing: original_00__crop_offcenter_keep75__compress__q35__v1.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.21 -> 14/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.96 -> 28/30 points
+  Rule 3 (Template): FIRED - Match score 0.97 -> 38/40 points
+  Rule 4 (Edge Detection): FIRED - Edge score 0.75 -> 15/20 points
+Final Score: 117/120 -> MATCH to original_00.jpg
+Processing: original_00__resize_scale114__compress__q45__v3.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.45 -> 21/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.97 -> 29/30 points
+  Rule 3 (Template): FIRED - Match score 0.75 -> 29/40 points
+  Rule 4 (Edge Detection): FIRED - Edge score 0.42 -> 8/20 points
+Final Score: 109/120 -> MATCH to original_00.jpg
+Processing: original_00__rotate6deg__compress__q35__v4.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.38 -> 20/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.93 -> 27/30 points
+  Rule 3 (Template): FIRED - Match score 0.45 -> 17/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.26 -> 5/20 points
+Final Score: 91/120 -> MATCH to original_00.jpg
+Processing: original_01__contrast__compress__q70__v5.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.64 -> 24/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.99 -> 29/30 points
+  Rule 3 (Template): FIRED - Match score 0.44 -> 17/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.31 -> 6/20 points
+Final Score: 98/120 -> MATCH to original_01.jpg
+Processing: original_01__crop_keep50__resized__q75__v6.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.81 -> 27/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.90 -> 27/30 points
+  Rule 3 (Template): NO MATCH - Match score 0.24 -> 9/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.07 -> 1/20 points
+Final Score: 86/120 -> MATCH to original_01.jpg
+Processing: original_01__crop_keep70__bright__compress__q40__v2.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.22 -> 13/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.62 -> 18/30 points
+  Rule 3 (Template): FIRED - Match score 0.97 -> 38/40 points
+  Rule 4 (Edge Detection): FIRED - Edge score 0.72 -> 14/20 points
+Final Score: 105/120 -> MATCH to original_01.jpg
+Processing: original_01__crop_offcenter_keep65__compress__q35__v1.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.17 -> 11/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.72 -> 21/30 points
+  Rule 3 (Template): FIRED - Match score 0.99 -> 39/40 points
+  Rule 4 (Edge Detection): FIRED - Edge score 0.83 -> 16/20 points
+Final Score: 109/120 -> MATCH to original_01.jpg
+Processing: original_01__resize_scale75__compress__q30__v3.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.13 -> 17/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.75 -> 22/30 points
+  Rule 3 (Template): NO MATCH - Match score 0.17 -> 6/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.13 -> 2/20 points
+Final Score: 69/120 -> MATCH to original_08.jpg
+Processing: original_01__rotate3deg__compress__q65__v4.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.61 -> 24/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.60 -> 17/30 points
+  Rule 3 (Template): FIRED - Match score 0.39 -> 15/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.22 -> 4/20 points
+Final Score: 82/120 -> MATCH to original_01.jpg
+Processing: original_02__contrast__compress__q35__v5.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.36 -> 20/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.81 -> 24/30 points
+  Rule 3 (Template): FIRED - Match score 0.51 -> 20/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.13 -> 2/20 points
+Final Score: 88/120 -> MATCH to original_02.jpg
+Processing: original_02__crop_keep60__resized__q60__v6.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.43 -> 21/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.92 -> 27/30 points
+  Rule 3 (Template): NO MATCH - Match score 0.09 -> 3/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.08 -> 1/20 points
+Final Score: 74/120 -> MATCH to original_02.jpg
+Processing: original_02__crop_keep70__bright__compress__q40__v2.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.21 -> 13/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.90 -> 27/30 points
+  Rule 3 (Template): FIRED - Match score 0.92 -> 36/40 points
+  Rule 4 (Edge Detection): FIRED - Edge score 0.72 -> 14/20 points
+Final Score: 112/120 -> MATCH to original_02.jpg
+Processing: original_02__crop_offcenter_keep55__compress__q45__v1.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.15 -> 10/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.98 -> 29/30 points
+  Rule 3 (Template): FIRED - Match score 0.98 -> 39/40 points
+  Rule 4 (Edge Detection): FIRED - Edge score 0.83 -> 16/20 points
+Final Score: 116/120 -> MATCH to original_02.jpg
+Processing: original_02__resize_scale85__compress__q30__v3.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.31 -> 19/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.61 -> 18/30 points
+  Rule 3 (Template): NO MATCH - Match score 0.31 -> 12/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.11 -> 2/20 points
+Final Score: 73/120 -> MATCH to original_02.jpg
+Processing: original_02__rotate3deg__compress__q35__v4.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.41 -> 21/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.99 -> 29/30 points
+  Rule 3 (Template): FIRED - Match score 0.44 -> 17/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.15 -> 2/20 points
+Final Score: 91/120 -> MATCH to original_02.jpg
+Processing: original_03__contrast__compress__q70__v5.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.59 -> 23/30 points
+  Rule 2 (Histogram): NO MATCH - Correlation 0.19 -> 5/30 points
+  Rule 3 (Template): FIRED - Match score 0.57 -> 22/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.24 -> 4/20 points
+Final Score: 66/120 -> MATCH to original_03.jpg
+Processing: original_03__crop_keep60__bright__compress__q40__v2.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.15 -> 10/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.98 -> 29/30 points
+  Rule 3 (Template): FIRED - Match score 0.99 -> 39/40 points
+  Rule 4 (Edge Detection): FIRED - Edge score 0.78 -> 15/20 points
+Final Score: 115/120 -> MATCH to original_03.jpg
+Processing: original_03__crop_keep60__resized__q60__v6.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.47 -> 22/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.99 -> 29/30 points
+  Rule 3 (Template): NO MATCH - Match score 0.20 -> 8/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.08 -> 1/20 points
+Final Score: 82/120 -> MATCH to original_03.jpg
+Processing: original_03__crop_offcenter_keep65__compress__q35__v1.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.13 -> 10/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.97 -> 29/30 points
+  Rule 3 (Template): FIRED - Match score 0.99 -> 39/40 points
+  Rule 4 (Edge Detection): FIRED - Edge score 0.77 -> 15/20 points
+Final Score: 115/120 -> MATCH to original_03.jpg
+Processing: original_03__resize_scale75__compress__q45__v3.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.24 -> 18/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.45 -> 13/30 points
+  Rule 3 (Template): FIRED - Match score 0.38 -> 15/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.13 -> 2/20 points
+Final Score: 70/120 -> MATCH to original_03.jpg
+Processing: original_03__rotate-6deg__compress__q50__v4.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.41 -> 21/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.99 -> 29/30 points
+  Rule 3 (Template): FIRED - Match score 0.56 -> 22/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.25 -> 4/20 points
+Final Score: 98/120 -> MATCH to original_03.jpg
+Processing: original_04__contrast__compress__q70__v5.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.67 -> 25/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.59 -> 17/30 points
+  Rule 3 (Template): FIRED - Match score 0.41 -> 16/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.29 -> 5/20 points
+Final Score: 85/120 -> MATCH to original_04.jpg
+Processing: original_04__crop_keep50__resized__q45__v6.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.39 -> 20/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.60 -> 18/30 points
+  Rule 3 (Template): NO MATCH - Match score 0.18 -> 7/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.18 -> 3/20 points
+Final Score: 70/120 -> MATCH to original_04.jpg
+Processing: original_04__crop_keep60__bright__compress__q65__v2.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.32 -> 13/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.89 -> 26/30 points
+  Rule 3 (Template): FIRED - Match score 0.99 -> 39/40 points
+  Rule 4 (Edge Detection): FIRED - Edge score 0.89 -> 17/20 points
+Final Score: 117/120 -> MATCH to original_04.jpg
+Processing: original_04__crop_offcenter_keep75__compress__q35__v1.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.24 -> 14/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.50 -> 14/30 points
+  Rule 3 (Template): FIRED - Match score 0.96 -> 38/40 points
+  Rule 4 (Edge Detection): FIRED - Edge score 0.87 -> 17/20 points
+Final Score: 105/120 -> MATCH to original_04.jpg
+Processing: original_04__resize_scale85__compress__q60__v3.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.45 -> 21/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.70 -> 20/30 points
+  Rule 3 (Template): NO MATCH - Match score 0.25 -> 10/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.28 -> 5/20 points
+Final Score: 78/120 -> MATCH to original_04.jpg
+Processing: original_04__rotate-4deg__compress__q50__v4.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.49 -> 22/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.81 -> 24/30 points
+  Rule 3 (Template): FIRED - Match score 0.39 -> 15/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.26 -> 5/20 points
+Final Score: 88/120 -> MATCH to original_04.jpg
+Processing: original_05__contrast__compress__q35__v5.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.27 -> 19/30 points
+  Rule 2 (Histogram): NO MATCH - Correlation 0.28 -> 8/30 points
+  Rule 3 (Template): NO MATCH - Match score 0.31 -> 12/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.35 -> 7/20 points
+Final Score: 68/120 -> MATCH to original_05.jpg
+Processing: original_05__crop_keep50__resized__q60__v6.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.54 -> 23/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.99 -> 29/30 points
+  Rule 3 (Template): NO MATCH - Match score 0.13 -> 5/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.19 -> 3/20 points
+Final Score: 82/120 -> MATCH to original_05.jpg
+Processing: original_05__crop_keep70__bright__compress__q65__v2.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.28 -> 14/30 points
+  Rule 2 (Histogram): FIRED - Correlation 1.00 -> 29/30 points
+  Rule 3 (Template): FIRED - Match score 0.97 -> 38/40 points
+  Rule 4 (Edge Detection): FIRED - Edge score 0.62 -> 12/20 points
+Final Score: 115/120 -> MATCH to original_05.jpg
+Processing: original_05__crop_offcenter_keep75__compress__q25__v1.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.19 -> 13/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.99 -> 29/30 points
+  Rule 3 (Template): FIRED - Match score 0.97 -> 38/40 points
+  Rule 4 (Edge Detection): FIRED - Edge score 0.67 -> 13/20 points
+Final Score: 115/120 -> MATCH to original_05.jpg
+Processing: original_05__resize_scale114__compress__q60__v3.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.54 -> 23/30 points
+  Rule 2 (Histogram): FIRED - Correlation 1.00 -> 29/30 points
+  Rule 3 (Template): FIRED - Match score 0.82 -> 32/40 points
+  Rule 4 (Edge Detection): FIRED - Edge score 0.52 -> 10/20 points
+Final Score: 116/120 -> MATCH to original_05.jpg
+Processing: original_05__rotate-3deg__compress__q65__v4.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.62 -> 24/30 points
+  Rule 2 (Histogram): FIRED - Correlation 1.00 -> 29/30 points
+  Rule 3 (Template): NO MATCH - Match score 0.32 -> 12/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.39 -> 7/20 points
+Final Score: 94/120 -> MATCH to original_05.jpg
+Processing: original_06__contrast__compress__q35__v5.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.44 -> 21/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.76 -> 22/30 points
+  Rule 3 (Template): FIRED - Match score 0.47 -> 18/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.34 -> 6/20 points
+Final Score: 89/120 -> MATCH to original_06.jpg
+Processing: original_06__crop_keep50__resized__q45__v6.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.30 -> 19/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.88 -> 26/30 points
+  Rule 3 (Template): NO MATCH - Match score 0.25 -> 10/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.16 -> 3/20 points
+Final Score: 80/120 -> MATCH to original_06.jpg
+Processing: original_06__crop_keep70__bright__compress__q55__v2.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.18 -> 12/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.60 -> 18/30 points
+  Rule 3 (Template): FIRED - Match score 0.99 -> 39/40 points
+  Rule 4 (Edge Detection): FIRED - Edge score 0.77 -> 15/20 points
+Final Score: 106/120 -> MATCH to original_06.jpg
+Processing: original_06__crop_offcenter_keep75__compress__q25__v1.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.14 -> 13/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.73 -> 21/30 points
+  Rule 3 (Template): FIRED - Match score 0.99 -> 39/40 points
+  Rule 4 (Edge Detection): FIRED - Edge score 0.74 -> 14/20 points
+Final Score: 109/120 -> MATCH to original_06.jpg
+Processing: original_06__resize_scale85__compress__q45__v3.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.33 -> 19/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.59 -> 17/30 points
+  Rule 3 (Template): FIRED - Match score 0.39 -> 15/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.30 -> 5/20 points
+Final Score: 78/120 -> MATCH to original_06.jpg
+Processing: original_06__rotate-6deg__compress__q35__v4.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.31 -> 19/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.85 -> 25/30 points
+  Rule 3 (Template): FIRED - Match score 0.43 -> 17/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.24 -> 4/20 points
+Final Score: 87/120 -> MATCH to original_06.jpg
+Processing: original_07__contrast__compress__q70__v5.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.58 -> 23/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.76 -> 22/30 points
+  Rule 3 (Template): FIRED - Match score 0.59 -> 23/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.26 -> 5/20 points
+Final Score: 95/120 -> MATCH to original_07.jpg
+Processing: original_07__crop_keep60__bright__compress__q55__v2.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.21 -> 12/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.84 -> 25/30 points
+  Rule 3 (Template): FIRED - Match score 0.99 -> 39/40 points
+  Rule 4 (Edge Detection): FIRED - Edge score 0.73 -> 14/20 points
+Final Score: 112/120 -> MATCH to original_07.jpg
+Processing: original_07__crop_keep60__resized__q60__v6.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.48 -> 22/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.97 -> 29/30 points
+  Rule 3 (Template): FIRED - Match score 0.47 -> 18/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.11 -> 2/20 points
+Final Score: 93/120 -> MATCH to original_07.jpg
+Processing: original_07__crop_offcenter_keep55__compress__q35__v1.jpg
+  Rule 1 (Metadata): NO MATCH - Size ratio 0.10 -> 9/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.96 -> 28/30 points
+  Rule 3 (Template): FIRED - Match score 0.96 -> 38/40 points
+  Rule 4 (Edge Detection): FIRED - Edge score 0.75 -> 15/20 points
+Final Score: 102/120 -> MATCH to original_07.jpg
+Processing: original_07__resize_scale114__compress__q45__v3.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.37 -> 20/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.85 -> 25/30 points
+  Rule 3 (Template): FIRED - Match score 0.87 -> 34/40 points
+  Rule 4 (Edge Detection): FIRED - Edge score 0.47 -> 9/20 points
+Final Score: 110/120 -> MATCH to original_07.jpg
+Processing: original_07__rotate-3deg__compress__q65__v4.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.57 -> 23/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.93 -> 28/30 points
+  Rule 3 (Template): FIRED - Match score 0.49 -> 19/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.25 -> 4/20 points
+Final Score: 96/120 -> MATCH to original_07.jpg
+Processing: original_08__contrast__compress__q35__v5.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.37 -> 20/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.92 -> 27/30 points
+  Rule 3 (Template): FIRED - Match score 0.46 -> 18/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.36 -> 7/20 points
+Final Score: 94/120 -> MATCH to original_08.jpg
+Processing: original_08__crop_keep60__bright__compress__q55__v2.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.19 -> 11/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.89 -> 26/30 points
+  Rule 3 (Template): FIRED - Match score 0.99 -> 39/40 points
+  Rule 4 (Edge Detection): FIRED - Edge score 0.87 -> 17/20 points
+Final Score: 115/120 -> MATCH to original_08.jpg
+Processing: original_08__crop_keep60__resized__q45__v6.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.28 -> 19/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.92 -> 27/30 points
+  Rule 3 (Template): NO MATCH - Match score 0.19 -> 7/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.23 -> 4/20 points
+Final Score: 79/120 -> MATCH to original_08.jpg
+Processing: original_08__crop_offcenter_keep65__compress__q35__v1.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.18 -> 11/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.93 -> 27/30 points
+  Rule 3 (Template): FIRED - Match score 0.98 -> 39/40 points
+  Rule 4 (Edge Detection): FIRED - Edge score 0.84 -> 16/20 points
+Final Score: 115/120 -> MATCH to original_08.jpg
+Processing: original_08__resize_scale114__compress__q30__v3.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.39 -> 20/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.93 -> 28/30 points
+  Rule 3 (Template): FIRED - Match score 0.83 -> 33/40 points
+  Rule 4 (Edge Detection): FIRED - Edge score 0.63 -> 12/20 points
+Final Score: 115/120 -> MATCH to original_08.jpg
+Processing: original_08__rotate3deg__compress__q50__v4.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.54 -> 23/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.97 -> 29/30 points
+  Rule 3 (Template): FIRED - Match score 0.43 -> 17/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.36 -> 7/20 points
+Final Score: 98/120 -> MATCH to original_08.jpg
+Processing: original_09__contrast__compress__q35__v5.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.37 -> 20/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.93 -> 28/30 points
+  Rule 3 (Template): FIRED - Match score 0.90 -> 36/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.34 -> 6/20 points
+Final Score: 112/120 -> MATCH to original_09.jpg
+Processing: original_09__crop_keep50__resized__q75__v6.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.53 -> 22/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.87 -> 25/30 points
+  Rule 3 (Template): FIRED - Match score 0.66 -> 26/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.38 -> 7/20 points
+Final Score: 102/120 -> MATCH to original_09.jpg
+Processing: original_09__crop_keep60__bright__compress__q40__v2.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.10 -> 10/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.81 -> 24/30 points
+  Rule 3 (Template): FIRED - Match score 0.99 -> 39/40 points
+  Rule 4 (Edge Detection): FIRED - Edge score 0.88 -> 17/20 points
+Final Score: 112/120 -> MATCH to original_09.jpg
+Processing: original_09__crop_offcenter_keep55__compress__q25__v1.jpg
+  Rule 1 (Metadata): NO MATCH - Size ratio 0.05 -> 8/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.91 -> 27/30 points
+  Rule 3 (Template): FIRED - Match score 0.97 -> 38/40 points
+  Rule 4 (Edge Detection): FIRED - Edge score 0.61 -> 12/20 points
+Final Score: 97/120 -> MATCH to original_09.jpg
+Processing: original_09__resize_scale75__compress__q30__v3.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.14 -> 17/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.50 -> 14/30 points
+  Rule 3 (Template): FIRED - Match score 0.60 -> 24/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.13 -> 2/20 points
+Final Score: 79/120 -> MATCH to original_09.jpg
+Processing: original_09__rotate-3deg__compress__q65__v4.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.54 -> 23/30 points
+  Rule 2 (Histogram): FIRED - Correlation 1.00 -> 29/30 points
+  Rule 3 (Template): FIRED - Match score 0.83 -> 33/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.12 -> 2/20 points
+Final Score: 109/120 -> MATCH to original_09.jpg
+Processing: random_05.jpg
+  Rule 1 (Metadata): NO MATCH - Size ratio 0.00 -> 0/30 points
+  Rule 2 (Histogram): NO MATCH - Correlation 0.00 -> 0/30 points
+  Rule 3 (Template): NO MATCH - Match score 0.00 -> 0/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.00 -> 0/20 points
+Final Score: 0/120 -> REJECTED
+Processing: random_06.jpg
+  Rule 1 (Metadata): NO MATCH - Size ratio 0.00 -> 0/30 points
+  Rule 2 (Histogram): NO MATCH - Correlation 0.00 -> 0/30 points
+  Rule 3 (Template): NO MATCH - Match score 0.00 -> 0/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.00 -> 0/20 points
+Final Score: 0/120 -> REJECTED
+Processing: random_07.jpg
+  Rule 1 (Metadata): NO MATCH - Size ratio 0.00 -> 0/30 points
+  Rule 2 (Histogram): NO MATCH - Correlation 0.00 -> 0/30 points
+  Rule 3 (Template): NO MATCH - Match score 0.00 -> 0/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.00 -> 0/20 points
+Final Score: 0/120 -> REJECTED
+Processing: random_08.jpg
+  Rule 1 (Metadata): FIRED - Size ratio 0.07 -> 15/30 points
+  Rule 2 (Histogram): FIRED - Correlation 0.62 -> 18/30 points
+  Rule 3 (Template): NO MATCH - Match score 0.25 -> 9/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.00 -> 0/20 points
+Final Score: 64/120 -> MATCH to original_00.jpg
+Processing: random_09.jpg
+  Rule 1 (Metadata): NO MATCH - Size ratio 0.00 -> 0/30 points
+  Rule 2 (Histogram): NO MATCH - Correlation 0.00 -> 0/30 points
+  Rule 3 (Template): NO MATCH - Match score 0.00 -> 0/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.00 -> 0/20 points
+Final Score: 0/120 -> REJECTED
+Processing: random_10.jpg
+  Rule 1 (Metadata): NO MATCH - Size ratio 0.00 -> 0/30 points
+  Rule 2 (Histogram): NO MATCH - Correlation 0.00 -> 0/30 points
+  Rule 3 (Template): NO MATCH - Match score 0.00 -> 0/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.00 -> 0/20 points
+Final Score: 0/120 -> REJECTED
+Processing: random_11.jpg
+  Rule 1 (Metadata): NO MATCH - Size ratio 0.00 -> 0/30 points
+  Rule 2 (Histogram): NO MATCH - Correlation 0.00 -> 0/30 points
+  Rule 3 (Template): NO MATCH - Match score 0.00 -> 0/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.00 -> 0/20 points
+Final Score: 0/120 -> REJECTED
+Processing: random_12.jpg
+  Rule 1 (Metadata): NO MATCH - Size ratio 0.00 -> 0/30 points
+  Rule 2 (Histogram): NO MATCH - Correlation 0.00 -> 0/30 points
+  Rule 3 (Template): NO MATCH - Match score 0.00 -> 0/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.00 -> 0/20 points
+Final Score: 0/120 -> REJECTED
+Processing: random_13.jpg
+  Rule 1 (Metadata): NO MATCH - Size ratio 0.00 -> 0/30 points
+  Rule 2 (Histogram): NO MATCH - Correlation 0.00 -> 0/30 points
+  Rule 3 (Template): NO MATCH - Match score 0.00 -> 0/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.00 -> 0/20 points
+Final Score: 0/120 -> REJECTED
+Processing: random_14.jpg
+  Rule 1 (Metadata): NO MATCH - Size ratio 0.00 -> 0/30 points
+  Rule 2 (Histogram): NO MATCH - Correlation 0.00 -> 0/30 points
+  Rule 3 (Template): NO MATCH - Match score 0.00 -> 0/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.00 -> 0/20 points
+Final Score: 0/120 -> REJECTED
+Processing: random_noise_00.jpg
+  Rule 1 (Metadata): NO MATCH - Size ratio 0.00 -> 0/30 points
+  Rule 2 (Histogram): NO MATCH - Correlation 0.00 -> 0/30 points
+  Rule 3 (Template): NO MATCH - Match score 0.00 -> 0/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.00 -> 0/20 points
+Final Score: 0/120 -> REJECTED
+Processing: random_noise_01.jpg
+  Rule 1 (Metadata): NO MATCH - Size ratio 0.00 -> 0/30 points
+  Rule 2 (Histogram): NO MATCH - Correlation 0.00 -> 0/30 points
+  Rule 3 (Template): NO MATCH - Match score 0.00 -> 0/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.00 -> 0/20 points
+Final Score: 0/120 -> REJECTED
+Processing: random_noise_02.jpg
+  Rule 1 (Metadata): NO MATCH - Size ratio 0.00 -> 0/30 points
+  Rule 2 (Histogram): NO MATCH - Correlation 0.00 -> 0/30 points
+  Rule 3 (Template): NO MATCH - Match score 0.00 -> 0/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.00 -> 0/20 points
+Final Score: 0/120 -> REJECTED
+Processing: random_noise_03.jpg
+  Rule 1 (Metadata): NO MATCH - Size ratio 0.00 -> 0/30 points
+  Rule 2 (Histogram): NO MATCH - Correlation 0.00 -> 0/30 points
+  Rule 3 (Template): NO MATCH - Match score 0.00 -> 0/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.00 -> 0/20 points
+Final Score: 0/120 -> REJECTED
+Processing: random_noise_04.jpg
+  Rule 1 (Metadata): NO MATCH - Size ratio 0.00 -> 0/30 points
+  Rule 2 (Histogram): NO MATCH - Correlation 0.00 -> 0/30 points
+  Rule 3 (Template): NO MATCH - Match score 0.00 -> 0/40 points
+  Rule 4 (Edge Detection): NO MATCH - Edge score 0.00 -> 0/20 points
+Final Score: 0/120 -> REJECTED
